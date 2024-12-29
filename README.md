@@ -7,7 +7,7 @@ cd game
 python3 main.py
 ```
 
-# app project
+# App Project
 
 ```sh
 git clone
